@@ -38,7 +38,7 @@ li.bor_b_n{ border-bottom:none!important;}
 /* -----------------------------------全局public-----------------------------*/
 .fl { float:left;}.f_n{ float:none!important;}.fr { float:right;}.db { display:block;}.dn { display:none;}.cl { clear:both;}.tl { text-align:left;}.tc { text-align:center;}.tr { text-align:right;}.d_i_b{ display:inline-block!important;}.ov_z{ overflow:hidden; zoom:1;}.ov_y_a{ overflow-x:hidden; overflow-y:auto;}.po_r{ position:relative;}.po_a{ position:absolute;}.mar_c{ margin:0 auto;}.mg_t40{margin-top: 40px;}.mg_b40{margin-bottom: 40px;}
 .col_666{color:#666;}
-.pd_b20{padding-bottom:20px;}.pd_t20{padding-top:20px;}.pd_20_30{padding:20px 30px;}.pd_b60{padding-bottom:60px;}
+.pd_b20{padding-bottom:20px;}.pd_t20{padding-top:20px;}.pd_20_30{padding:20px 30px;}.pd_b60{padding-bottom:60px;}.pd30{padding: 30px;}.pd_b0{padding-bottom:0;}
 .col_red{color:red;}.col_blue{color:blue;}
 
 /*-------------------自定义滚动条----------------------------------*/
