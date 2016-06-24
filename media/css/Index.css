@@ -88,7 +88,7 @@ ul.nav_second_level li:last-child span{border-right:none;}
 
 /*index*/
 .scroll_mod{width: 5000%;}
-.indexScrollList{padding:20px 0; width:2600px; overflow: hidden; zoom:1; float: left;}
+.indexScrollList{padding:20px 0; overflow: hidden; zoom:1; float: left;}
 .indexScrollList li{width: 1300px; overflow: hidden; zoom:1; float: left; text-align: center;}
 .indexScrollList li img{max-width:1300px;display: inline-block; margin: 0 auto;}
 
